@@ -1,1 +1,1 @@
-# calculator-project--# Проект Калькулятор "Хусан Урунбаев"
+# calculator-project--# "Хусан Урунбаев"
